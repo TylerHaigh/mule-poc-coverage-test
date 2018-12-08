@@ -90,7 +90,7 @@
                             <ignoreFlow>poc-coverage-test-apiKitGlobalExceptionMapping</ignoreFlow>
 
                             <!-- These flows are not ignored by code coverage -->
-                            <ignoreFlow>get:/greeting:poc-coverage-test-config</ignoreFlow>
+                            <ignoreFlow>get:\/greeting:poc-coverage-test-config</ignoreFlow>
                         </ignoreFlows>
                     </coverage>
                 </configuration>
